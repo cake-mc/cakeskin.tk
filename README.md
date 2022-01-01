@@ -1,4 +1,4 @@
-# littlesk.in
+# cakeskin.tk
 
 ## 环境要求
 
@@ -13,4 +13,6 @@ You can find the license file from its distribution.
 
 ## License
 
-MIT License (c) 2020-present LittleSkin
+MIT License (c) 2020-present CakeSkin
+
+Made By LittleSkin
