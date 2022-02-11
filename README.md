@@ -13,6 +13,6 @@ You can find the license file from its distribution.
 
 ## License
 
-MIT License (c) 2020-present CakeSkin
+MIT License (c) 2021-present CakeSkin
 
 Made By LittleSkin
