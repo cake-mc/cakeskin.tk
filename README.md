@@ -16,4 +16,3 @@ You can find the license file from its distribution.
 MIT License (c) 2021-present CakeSkin
 
 Made By LittleSkin
- 
